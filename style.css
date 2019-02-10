@@ -53,7 +53,7 @@ li a:active {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .textcontent {
-    position: absolute;
+    position: relative;
     float: left;
     top: 50%;
     left: 50%;
